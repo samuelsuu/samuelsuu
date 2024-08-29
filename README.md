@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelsuu&show_icons=true&locale=en" alt="samuelsuu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsuu&" alt="samuelsuu" /></p>
+
+<a href="https://gitroll.io/profile/u8LIydxys9gTq7Ct49FOsXfmvfeF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8LIydxys9gTq7Ct49FOsXfmvfeF2" alt="GitRoll Profile Badge"/></a>
