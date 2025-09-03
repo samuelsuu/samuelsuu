@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/samuel_su001" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_su001?logo=twitter&style=for-the-badge" alt="samuel_su001" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **NodeJS for Backend**
 
 - 💬 Ask me about **Web and App frontend development**
 
